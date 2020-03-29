@@ -1,5 +1,4 @@
 # Сайт
 
-https://pd.fit.mospolytech.ru/docs/report/
-
-Поместите в эту папку файлы сайта проекта.
+http://pd1.std-556.ist.mospolytech.ru/#
+Ссылка на макет сайта проекта.
