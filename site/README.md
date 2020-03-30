@@ -1,4 +1,4 @@
 # Сайт
 
-http://pd1.std-556.ist.mospolytech.ru/#
-Ссылка на макет сайта проекта.
+http://pd-2020-1.std-556.ist.mospolytech.ru/
+- Ссылка на макет сайта проекта.
